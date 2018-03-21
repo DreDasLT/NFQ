@@ -1,0 +1,1 @@
+DELETE FROM Authors WHERE authorId IN (8,9);
